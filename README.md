@@ -2,7 +2,7 @@
 **project on police brutality**
 This text preprocessing routine is designed to clean and standardize raw input for natural language processing tasks. It begins by converting all characters to lowercase to maintain consistency and ensure case-insensitive matching. Then it systematically removes unwanted elements: punctuation, special characters, short words of one or two letters that typically offer little semantic value, and numeric digits. It also strips out web URLs and email addresses, both of which are often irrelevant for text analysis and can introduce noise or privacy concerns. The resulting text is a simplified, de-cluttered version that retains essential linguistic content while minimizing distractions, making it more suitable for tasks like tokenization, sentiment analysis, or machine learning pipelines.
 
-Great! Based on what you've shared so far, here's a polished `README.md` file draft for your text preprocessing script:
+
 
 ---
 
